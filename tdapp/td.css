@@ -1,0 +1,37 @@
+#hd{
+   text-align: center;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 700;
+   font-style: italic;
+   font-size: 40px;
+}
+body{
+    background-color:black
+}
+input{
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 3px;
+    border-color: violet;
+    height: 20px;
+    width: 350px;
+    font-size: large;
+    text-align: center;
+}
+button{
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 3px;
+    border-color: violet;
+    height: 27px;
+    position: relative;
+    top: 1px;
+    margin-left: 15px;
+    width: 70px;
+    font-size: large;
+    text-align: center;
+}
+#cont{
+    color: white;
+}
